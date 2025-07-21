@@ -1,4 +1,4 @@
-<h2 align="left">Wassup! My name is Jo and I'm a student at the University of Connecticut</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -37,14 +37,6 @@
   </a>
   <a href="https://www.linkedin.com/in/jo-gedeon-a1129629a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/JoMySwirls">
-    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=JoMySwirlsca16&count=1)
   </a>
 </div>
 
