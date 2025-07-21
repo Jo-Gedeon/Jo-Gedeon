@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jo and I'm a student at the University of Connecticut</h2>
+<h2 align="left">Wassup! My name is Jo and I'm a student at the University of Connecticut</h2>
 
 ###
 
@@ -44,7 +44,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/JoMySwirls">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=JoMySwirls&count=5&unique=true" alt="Spotify recently played"  />
+    ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=JoMySwirlsca16&count=1)
   </a>
 </div>
 
