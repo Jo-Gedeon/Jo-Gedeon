@@ -1,4 +1,14 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Yo! My name is Jo and I'm a Computer Science student at the University of Connecticut</h2>
+<h2 align="left">Some of my interests are:</h2>
+<ul align="left">
+  <li>Playing Instruments</li>
+  <li>Crochet</li>
+  <li>Live Music</li>
+  <li>Anime</li>
+  <li>Gaming</li>
+  <li>Learning :3 </li>
+</ul>
+
 
 ###
 
